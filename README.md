@@ -40,6 +40,6 @@
 
 ## Where to find me
 
-[[![Linkedin](https://img.shields.io/badge/-IsmaelDevBackEnd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ismael-dev-backend)](https://www.linkedin.com/in/ismael-dev-backend)](https://)
+[![Linkedin](https://img.shields.io/badge/-IsmaelDevBackEnd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismael-dev-backend)](https://www.linkedin.com/in/ismael-dev-backend)
 [![Gmail Badge](https://img.shields.io/badge/-ismael.silva.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ismael.silva.dev@gmail.com)](mailto:ismael.silva.dev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Ismael-Gomes?label=follow&style=social)](https://github.com/Ismael-Gomes)
